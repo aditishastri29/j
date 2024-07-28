@@ -2,3 +2,7 @@ a=int(input("enter 1st no."))
 b=int(input("enter 2nd no."))
 sum=a+b
 print(sum)
+
+r=int(input("enter number"))
+area=3.14*r*r
+print(area)
