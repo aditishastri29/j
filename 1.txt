@@ -6,3 +6,9 @@ print(sum)
 r=int(input("enter number"))
 area=3.14*r*r
 print(area)
+
+def factorial(n):
+if(n==0)
+return 1
+else:
+return n*factorial(n-1)
